@@ -1,5 +1,5 @@
 # Web GIS Puskesmas | Bandar Lampung
-Muhammad Hadi Arsa (120140150)
+## Muhammad Hadi Arsa (120140150)
 
 ## Tools
 - QGis Web
@@ -11,7 +11,7 @@ Muhammad Hadi Arsa (120140150)
 ├─ css/
 ├─ data/
 |  └─ ADMINISTRASI_LN_50K_2.js              # Database for Data Line 
-|  └─ Pusat_Belanja_Umum_BDL_1.js           # Database for Data Marker
+|  └─ Puskesmas_1.js                        # Database for Data Marker
 ├─ images/
 ├─ js/
 ├─ legend/
