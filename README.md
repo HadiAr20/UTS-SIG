@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web GIS Pusat Belanja Umum | Bandar Lampung
 Ryan Ernanda - 120140154
 
@@ -19,3 +20,9 @@ Ryan Ernanda - 120140154
 ├─ webfonts/
 ├─ index.html                               # Main File
 /
+=======
+# Web GIS Puskesmas | Bandar Lampung
+Muhammad Hadi Arsa - 120140150
+
+# Tools
+>>>>>>> f81fbe566ceabad990e5e70bcbc6fd9404bcfa78
